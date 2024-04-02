@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "mlx-week4",
+			"path": "."
+		},
+		{
+			"name": "mlx-week3",
+			"path": "../mlx-week3"
+		},
+		{
+			"path": "../mlx-week5"
+		}
+	],
+	"settings": {}
+}
